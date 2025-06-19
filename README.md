@@ -8,8 +8,8 @@ Access the tool here: https://pydeobf.xyz​
 
 ## 📦 Version
 
-**Current Version:** `v1.0.0`  
-_Last updated: April 17, 2025_
+**Current Version:** `v1.2.0`  
+_Last updated: June 19, 2025_
 
 
 ## 🚀 Features
@@ -46,3 +46,6 @@ Contributions are welcome! To contribute, contact via email at: pydeobf@proton.m
 
 **v1.0.0** – _April 17, 2025_  
 - Initial release 🎉
+
+**v1.2.0** - _June 19, 2025_
+- Fixing Py-Fuscate deobfuscating to load more disassembled instructions
