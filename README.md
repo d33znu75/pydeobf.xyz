@@ -8,8 +8,8 @@ Access the tool here: https://pydeobf.xyz​
 
 ## 📦 Version
 
-**Current Version:** `v1.2.0`  
-_Last updated: June 19, 2025_
+**Current Version:** `v1.3.0`  
+_Last updated: July 12, 2025_
 
 
 ## 🚀 Features
@@ -17,7 +17,7 @@ Deobfuscates Python code obfuscated using various methods.
 
 Supports multiple obfuscation techniques:
 - PyObfuscate
-- recursive base64 + zlib
+- recursive base64 (with or without zlib)
 - Pyfuscator
 - PyObfuscator
 - Py-Fuscate
@@ -31,8 +31,8 @@ Plans to support other obfuscation techniques in the future.
 
 
 ## 🐛 Reporting Issues
-If you encounter any issues or have suggestions for improvements, please open an issue in this repository.
-Provide as much detail as possible to help us address the problem effectively.
+If you happen to have any issues or have suggestions for improvements, please open an issue in this repository.
+Please provide as much detail as possible to help us address the problem effectively.
 
 
 ## 🤝 Contributing
@@ -49,3 +49,7 @@ Contributions are welcome! To contribute, contact via email at: pydeobf@proton.m
 
 **v1.2.0** - _June 19, 2025_
 - Fixing Py-Fuscate deobfuscating to load more disassembled instructions
+
+**v1.3.0** - _July 12, 2025_
+- Updating the base64 method to handle whether it contains zlib compression or not
+  
